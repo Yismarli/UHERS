@@ -1,1 +1,1 @@
-Experimental data for UHERS are presented below. The corresponding code will be made publicly available after manuscript acceptance.
+Regarding HERL: the data sources, experimental data, and code for the scale and combination studies are as shown above.
